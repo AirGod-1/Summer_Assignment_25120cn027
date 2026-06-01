@@ -1,0 +1,10 @@
+# Ignore compiled executable files
+*.exe
+
+# Ignore CMake build and configuration folders
+cmake-build-debug/
+cmake-build-release/
+.cmake/
+
+# Ignore CLion specific project settings
+.idea/
