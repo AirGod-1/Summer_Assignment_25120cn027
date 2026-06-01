@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Summer_Assignment" targetName="q1_sum_natural" />
+      <config projectName="Summer_Assignment" targetName="q3_factorial" />
+      <config projectName="Summer_Assignment" targetName="q4_count_digits" />
+      <config projectName="Summer_Assignment" targetName="q2_multiplication_table" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="D1U4E5qT" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0002765829798086" />
+      <entry key="MS500" value="1.1942518738356172" />
+      <entry key="S2" value="1.6822476565502327" />
+      <entry key="S5" value="2.243589450145674" />
+      <entry key="S10" value="3.323250815523448" />
+      <entry key="S30" value="5.8436285602788525" />
+      <entry key="S60" value="7.878136772203385" />
+      <entry key="M2" value="11.54924295306167" />
+      <entry key="M5" value="27.76925085765531" />
+      <entry key="M10" value="49.42073544767235" />
+      <entry key="M15" value="61.87821797542546" />
+      <entry key="M30" value="78.56895487404792" />
+      <entry key="H1" value="88.95340053353841" />
+      <entry key="H2" value="94.7527370496134" />
+      <entry key="H4" value="97.81821309734114" />
+      <entry key="D1" value="100.46143437888608" />
+      <entry key="W1" value="100.92285704296368" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.7875932875393294E-111" />
+      <entry key="S2" value="2.0562086358245233E-28" />
+      <entry key="S5" value="8.41834797404815E-12" />
+      <entry key="S10" value="2.901631325447255E-6" />
+      <entry key="S30" value="0.014840072817424669" />
+      <entry key="S60" value="0.14345363882703238" />
+      <entry key="M2" value="0.500587542815508" />
+      <entry key="M5" value="1.1281568362252437" />
+      <entry key="M10" value="1.4973186424864653" />
+      <entry key="M15" value="1.6478208265573882" />
+      <entry key="M30" value="1.8147425459515374" />
+      <entry key="H1" value="1.9049507043494989" />
+      <entry key="H2" value="1.9518533097199287" />
+      <entry key="H4" value="1.9757689778117478" />
+      <entry key="D1" value="1.9959394102684689" />
+      <entry key="W1" value="1.9994193724215181" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.984961615459153E-4" />
+      <entry key="MS500" value="0.1972428134650625" />
+      <entry key="S2" value="0.7207092893264926" />
+      <entry key="S5" value="1.413813543925639" />
+      <entry key="S10" value="2.6455274557136006" />
+      <entry key="S30" value="5.46180105124699" />
+      <entry key="S60" value="7.745640012921979" />
+      <entry key="M2" value="11.858935550876685" />
+      <entry key="M5" value="28.79146861317532" />
+      <entry key="M10" value="50.8553647858702" />
+      <entry key="M15" value="63.481094427804734" />
+      <entry key="M30" value="80.3592061126779" />
+      <entry key="H1" value="90.84548533152227" />
+      <entry key="H2" value="96.69798407706514" />
+      <entry key="H4" value="99.79063302369674" />
+      <entry key="D1" value="102.45680900335223" />
+      <entry key="W1" value="102.92219556664608" />
+    </decayedShown>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EXMWuzN12qW3KpJ23K7tuf2Vt1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.q1_sum_natural.c.executor": "Run",
+    "C/C++ File.q2_multiplication_table.c.executor": "Run",
+    "C/C++ File.q3_factorial.c.executor": "Run",
+    "C/C++ File.q4_count_digits.c.executor": "Run",
+    "CMake Application.q1_sum_natural.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/acer/Documents/GitHub/Summer_Assignment_2501920210043",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.q4_count_digits.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeDoctestTestRunConfigurationType" factoryName="doctest Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="q1_sum_natural" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q1_sum_natural" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment" RUN_TARGET_NAME="q1_sum_natural">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q2_multiplication_table" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q2_multiplication_table" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment" RUN_TARGET_NAME="q2_multiplication_table">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q3_factorial" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q3_factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment" RUN_TARGET_NAME="q3_factorial">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q4_count_digits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q4_count_digits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment" RUN_TARGET_NAME="q4_count_digits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q1_sum_natural.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q1_sum_natural.c" CONFIG_NAME="q1_sum_natural.c">
+      <option name="sourceFile" value="DAY_01\q1_sum_natural.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q2_multiplication_table.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q2_multiplication_table.c" CONFIG_NAME="q2_multiplication_table.c">
+      <option name="sourceFile" value="DAY_01\q2_multiplication_table.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q3_factorial.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q3_factorial.c" CONFIG_NAME="q3_factorial.c">
+      <option name="sourceFile" value="DAY_01\q3_factorial.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q4_count_digits.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q4_count_digits.c" CONFIG_NAME="q4_count_digits.c">
+      <option name="sourceFile" value="DAY_01\q4_count_digits.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.q4_count_digits.c" />
+      <item itemvalue="C/C++ File.q3_factorial.c" />
+      <item itemvalue="C/C++ File.q1_sum_natural.c" />
+      <item itemvalue="C/C++ File.q2_multiplication_table.c" />
+      <item itemvalue="CMake Application.q1_sum_natural" />
+      <item itemvalue="CMake Application.q2_multiplication_table" />
+      <item itemvalue="CMake Application.q3_factorial" />
+      <item itemvalue="CMake Application.q4_count_digits" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.q4_count_digits.c" />
+        <item itemvalue="C/C++ File.q3_factorial.c" />
+        <item itemvalue="C/C++ File.q1_sum_natural.c" />
+        <item itemvalue="C/C++ File.q2_multiplication_table.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="" />
+      <created>1780320495169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780320495169</updated>
+      <workItem from="1780320496233" duration="4180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DAY_01/q1_sum_natural.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
