@@ -9,5 +9,8 @@ file(GLOB_RECURSE SOURCES "DAY_*/*.c")
 # This loop turns every .c file into its own runnable program
 foreach(SOURCE ${SOURCES})
     get_filename_component(TARGET_NAME ${SOURCE} NAME_WE)
-    add_executable(${TARGET_NAME} ${SOURCE})
+    add_executable(${TARGET_NAME} ${SOURCE}
+            DAY_01/q2_multiplication_table.c
+            DAY_01/q3_factorial.c
+            DAY_01/q4_count_digits.c)
 endforeach()
