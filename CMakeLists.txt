@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(Summer_Assignment C)
+project(Summer_Assignment_25120cn027 C)
 
 set(CMAKE_C_STANDARD 99)
 
