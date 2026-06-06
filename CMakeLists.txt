@@ -12,5 +12,9 @@ foreach(SOURCE ${SOURCES})
     add_executable(${TARGET_NAME} ${SOURCE}
             DAY_01/q2_multiplication_table.c
             DAY_01/q3_factorial.c
-            DAY_01/q4_count_digits.c)
+            DAY_01/q4_count_digits.c
+            DAY_02/q5_sum_of_digits.c
+            DAY_02/q6_reverse_number.c
+            DAY_02/q7_product_of_digits.c
+            DAY_02/q8_palindrome_number.c)
 endforeach()
