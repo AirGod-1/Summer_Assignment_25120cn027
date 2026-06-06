@@ -16,5 +16,9 @@ foreach(SOURCE ${SOURCES})
             DAY_02/q5_sum_of_digits.c
             DAY_02/q6_reverse_number.c
             DAY_02/q7_product_of_digits.c
-            DAY_02/q8_palindrome_number.c)
+            DAY_02/q8_palindrome_number.c
+            DAY_03/q9_check_prime.c
+            DAY_03/q10_prime_range.c
+            DAY_03/q11_find_gcd.c
+            DAY_03/q12_find_lcm.c)
 endforeach()
