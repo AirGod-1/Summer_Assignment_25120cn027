@@ -35,14 +35,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY_02/q5_sum_of_digits.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_02/q6_reverse_number.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_02/q7_product_of_digits.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_02/q8_palindrome_number.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,6 +171,11 @@
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ File.q8_palindrome_number.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="BeforeTestRunTask" enabled="true" />
@@ -305,7 +303,7 @@
       <workItem from="1780491377864" duration="4012000" />
       <workItem from="1780560818894" duration="784000" />
       <workItem from="1780740779147" duration="209000" />
-      <workItem from="1780741002472" duration="1202000" />
+      <workItem from="1780741002472" duration="1445000" />
     </task>
     <servers />
   </component>
