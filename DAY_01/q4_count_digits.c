@@ -3,7 +3,7 @@
 int main() {
     long long n;
     int count = 0;
-
+    //Take User input
     printf("Enter a number: ");
     scanf("%lld", &n);
 
@@ -21,7 +21,7 @@ int main() {
             count++;
         }
     }
-
+    //Prints the result
     printf("Number of digits = %d\n", count);
 
     return 0;

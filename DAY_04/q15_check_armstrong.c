@@ -8,17 +8,26 @@
  */
 
 #include <stdio.h>
-
 int main() {
-    int n,palin=0,r,temp;
-    scanf("%d", &n);
-temp=n;
-    while(n!=0) {
-        r= n%10;
+    int n,r,originalNum,temp,count,result=0;
+    scanf("%d",&n);
+    originalNum=n;
+    temp=n;
+    for (count=0;n!=0;count++) {
         n=n/10;
-        palin=palin*10+r;
     }
-    if(palin==temp) printf("%d==%d",temp,palin);
-    else printf("%d!=%d",temp,palin);
+    while (originalNum!=0) {
+        r=originalNum%10;
+        originalNum=originalNum/10;
+        int cube=1;
+        for (int i=0;i<count;i++) {
+            cube=cube*r;
+        }
+        result=cube+result;
+    }
+    if (result==temp) {
+        printf("%d is an armstrong number",temp);
+    }
+
     return 0;
 }

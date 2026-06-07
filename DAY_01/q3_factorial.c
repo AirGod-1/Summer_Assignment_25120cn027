@@ -5,7 +5,7 @@ int main() {
     
     printf("Enter a number: ");
     scanf("%d",&n);
-
+    // calculates the factorial using for loop
     for(int i=1;i<=n;i++) {
 
         if(n==0||n==1) {
@@ -15,6 +15,7 @@ int main() {
         fact=fact*i;
 
     }
+    //prints the factorial
     printf("The factorial of %d is %d.", n, fact);
     return 0;
 }

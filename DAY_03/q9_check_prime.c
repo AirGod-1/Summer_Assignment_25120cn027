@@ -1,3 +1,10 @@
+/*
+* LOGIC: The Divisor Engine
+ * 1. Run a for-loop up to half the number (n / 2) to save processing time.
+ * 2. Use modulo (n % i == 0) to check if 'i' divides perfectly without a remainder.
+ * 3. If true, flip a flag (for primes) or add it to a sum (for perfect numbers).
+ */
+
 #include <stdio.h>
 int main() {
     int n,isPrime=1;

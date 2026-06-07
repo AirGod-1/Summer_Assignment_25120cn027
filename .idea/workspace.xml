@@ -19,17 +19,46 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Summer_Assignment_25120cn027" targetName="q3_factorial" />
-      <config projectName="Summer_Assignment_25120cn027" targetName="q11_find_gcd" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q2_multiplication_table" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q15_check_armstrong" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q21_decimal_to_binary" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q35_repeated_char_pattern" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q29_half_pyramid" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q23_count_set_bits" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q19_print_factors" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q11_find_gcd" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q40_character_pyramid" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q8_palindrome_number" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q30_number_triangle" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q25_recursive_factorial" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q4_count_digits" />
-      <config projectName="Summer_Assignment_25120cn027" targetName="q10_prime_range" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q37_star_pyramid" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q39_number_pyramid" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q6_reverse_number" />
-      <config projectName="Summer_Assignment_25120cn027" targetName="q7_product_of_digits" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q38_reverse_pyramid" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q18_check_strong" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q36_hollow_square" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q3_factorial" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q16_armstrong_range" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q20_largest_prime_factor" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q27_recursive_sum_digits" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q12_find_lcm" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q14_nth_fibonacci" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q33_reverse_star" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q34_reverse_number_triangle" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q22_binary_to_decimal" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q5_sum_of_digits" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q1_sum_natural" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q17_check_perfect" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q28_recursive_reverse" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q24_power_without_pow" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q26_recursive_fibonacci" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q32_repeated_number_pattern" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q10_prime_range" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q7_product_of_digits" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q13_fibonacci_series" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q9_check_prime" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q31_character_triangle" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -39,12 +68,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY_03/q10_prime_range.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_03/q11_find_gcd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_03/q12_find_lcm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_03/q9_check_prime.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/q13_fibonacci_series.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/q14_nth_fibonacci.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/q15_check_armstrong.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/q16_armstrong_range.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/q17_check_perfect.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/q18_check_strong.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/q19_print_factors.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/q20_largest_prime_factor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/q21_decimal_to_binary.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/q22_binary_to_decimal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/q23_count_set_bits.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/q24_power_without_pow.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/q25_recursive_factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/q26_recursive_fibonacci.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/q27_recursive_sum_digits.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/q28_recursive_reverse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/q29_half_pyramid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/q30_number_triangle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/q31_character_triangle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/q32_repeated_number_pattern.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/q33_reverse_star.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/q34_reverse_number_triangle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/q35_repeated_char_pattern.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/q36_hollow_square.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_10/q37_star_pyramid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_10/q38_reverse_pyramid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_10/q39_number_pyramid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_10/q40_character_pyramid.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/q3_factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/q3_factorial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/q4_count_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/q4_count_digits.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_02/q5_sum_of_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_02/q5_sum_of_digits.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_02/q6_reverse_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_02/q6_reverse_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_02/q7_product_of_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_02/q7_product_of_digits.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_02/q8_palindrome_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_02/q8_palindrome_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_03/q11_find_gcd.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_03/q11_find_gcd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_03/q12_find_lcm.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_03/q12_find_lcm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_03/q9_check_prime.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_03/q9_check_prime.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,60 +133,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000038518955139" />
-      <entry key="S2" value="1.0443015197174936" />
-      <entry key="S5" value="1.2874610335928929" />
-      <entry key="S10" value="1.5389097100279787" />
-      <entry key="S30" value="1.952943924006758" />
-      <entry key="S60" value="2.3040404920832196" />
-      <entry key="M2" value="3.026633608169067" />
-      <entry key="M5" value="6.663655319134931" />
-      <entry key="M10" value="15.211434296664327" />
-      <entry key="M15" value="27.67533141791812" />
-      <entry key="M30" value="71.73498856915849" />
-      <entry key="H1" value="133.52299744165936" />
-      <entry key="H2" value="188.10552844044517" />
-      <entry key="H4" value="224.8670795650057" />
-      <entry key="D1" value="261.8159624694604" />
-      <entry key="W1" value="268.81347156604545" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000002" />
+      <entry key="S10" value="1.0000000183919906" />
+      <entry key="S30" value="1.0041832554772374" />
+      <entry key="S60" value="1.091449748804399" />
+      <entry key="M2" value="1.427645424146276" />
+      <entry key="M5" value="2.0790613723961036" />
+      <entry key="M10" value="2.4690523938729587" />
+      <entry key="M15" value="2.62836769947939" />
+      <entry key="M30" value="2.906425410880095" />
+      <entry key="H1" value="5.530777930500379" />
+      <entry key="H2" value="23.56838206213638" />
+      <entry key="H4" value="93.80496859632673" />
+      <entry key="D1" value="439.3481472211879" />
+      <entry key="W1" value="589.8685512151185" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.341178229450742E-73" />
-      <entry key="S2" value="8.923649214474568E-19" />
-      <entry key="S5" value="6.028607312472847E-8" />
-      <entry key="S10" value="2.4553222420844453E-4" />
-      <entry key="S30" value="0.06262186312401354" />
-      <entry key="S60" value="0.2524195105306168" />
-      <entry key="M2" value="0.575418936337266" />
-      <entry key="M5" value="1.532067093250506" />
-      <entry key="M10" value="2.678622282130929" />
-      <entry key="M15" value="3.4411909481308767" />
-      <entry key="M30" value="4.903484820787482" />
-      <entry key="H1" value="6.351958226836246" />
-      <entry key="H2" value="7.463929997099927" />
-      <entry key="H4" value="8.168122583373162" />
-      <entry key="D1" value="8.851372918688645" />
-      <entry key="W1" value="8.978507065665626" />
+      <entry key="MS100" value="1.1667929340470672E-48" />
+      <entry key="MS500" value="2.590590437373228E-10" />
+      <entry key="S2" value="0.004011896214330457" />
+      <entry key="S5" value="0.10998662503083853" />
+      <entry key="S10" value="0.3316423232984573" />
+      <entry key="S30" value="0.6953856204760355" />
+      <entry key="S60" value="0.9118740335792063" />
+      <entry key="M2" value="1.3117576740834802" />
+      <entry key="M5" value="2.0140302168342252" />
+      <entry key="M10" value="2.4309993378382733" />
+      <entry key="M15" value="2.6013018965868193" />
+      <entry key="M30" value="2.7902875280869623" />
+      <entry key="H1" value="2.905709160150912" />
+      <entry key="H2" value="3.3513407358209073" />
+      <entry key="H4" value="5.5967769812854575" />
+      <entry key="D1" value="17.075785514090573" />
+      <entry key="W1" value="22.01553944552125" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.603648272674335E-17" />
-      <entry key="MS500" value="5.403628827820089E-4" />
-      <entry key="S2" value="0.16932850257393972" />
-      <entry key="S5" value="0.6666261544117669" />
-      <entry key="S10" value="1.131004599189837" />
-      <entry key="S30" value="1.8337868100199821" />
-      <entry key="S60" value="2.444455532906459" />
-      <entry key="M2" value="3.528088714354996" />
-      <entry key="M5" value="8.141542716268523" />
-      <entry key="M10" value="17.84048890399785" />
-      <entry key="M15" value="31.065069442107305" />
-      <entry key="M30" value="76.58549243988415" />
-      <entry key="H1" value="139.8318246011334" />
-      <entry key="H2" value="195.54108865035093" />
-      <entry key="H4" value="233.0188168652147" />
-      <entry key="D1" value="270.664245225292" />
-      <entry key="W1" value="277.79152758935606" />
+      <entry key="MS100" value="2.602035192162955E-5" />
+      <entry key="MS500" value="0.12107727367027755" />
+      <entry key="S2" value="0.5919117201591172" />
+      <entry key="S5" value="0.8934031478500308" />
+      <entry key="S10" value="1.1891873767483103" />
+      <entry key="S30" value="1.633856366647749" />
+      <entry key="S60" value="1.962544399610749" />
+      <entry key="M2" value="2.708860296833495" />
+      <entry key="M5" value="4.073227863368997" />
+      <entry key="M10" value="4.887818262688854" />
+      <entry key="M15" value="5.220885222540976" />
+      <entry key="M30" value="5.691904503463544" />
+      <entry key="H1" value="8.433172008077404" />
+      <entry key="H2" value="26.914999966738208" />
+      <entry key="H4" value="99.39325404991823" />
+      <entry key="D1" value="456.4175684629087" />
+      <entry key="W1" value="611.8828781767933" />
     </decayedShown>
   </component>
   <component name="ProjectApplicationVersion">
@@ -145,44 +207,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.q10_prime_range.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q1_sum_natural.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q2_multiplication_table.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q3_factorial.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q4_count_digits.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q5_sum_of_digits.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q6_reverse_number.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q7_product_of_digits.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q8_palindrome_number.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.q9_check_prime.c.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.q1_sum_natural.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/Documents/GitHub/Summer_Assignment_25120cn027&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.q10_prime_range.c.executor": "Run",
+    "C/C++ File.q11_find_gcd.c.executor": "Run",
+    "C/C++ File.q12_find_lcm.c.executor": "Run",
+    "C/C++ File.q13_fibonacci_series.c.executor": "Run",
+    "C/C++ File.q14_nth_fibonacci.c.executor": "Run",
+    "C/C++ File.q15_check_armstrong.c.executor": "Run",
+    "C/C++ File.q16_armstrong_range.c.executor": "Run",
+    "C/C++ File.q17_check_perfect.c.executor": "Run",
+    "C/C++ File.q18_check_strong.c.executor": "Run",
+    "C/C++ File.q19_print_factors.c.executor": "Run",
+    "C/C++ File.q1_sum_natural.c.executor": "Run",
+    "C/C++ File.q20_largest_prime_factor.c.executor": "Run",
+    "C/C++ File.q21_decimal_to_binary.c.executor": "Run",
+    "C/C++ File.q22_binary_to_decimal.c.executor": "Run",
+    "C/C++ File.q23_count_set_bits.c.executor": "Run",
+    "C/C++ File.q2_multiplication_table.c.executor": "Run",
+    "C/C++ File.q3_factorial.c.executor": "Run",
+    "C/C++ File.q4_count_digits.c.executor": "Run",
+    "C/C++ File.q5_sum_of_digits.c.executor": "Run",
+    "C/C++ File.q6_reverse_number.c.executor": "Run",
+    "C/C++ File.q7_product_of_digits.c.executor": "Run",
+    "C/C++ File.q8_palindrome_number.c.executor": "Run",
+    "C/C++ File.q9_check_prime.c.executor": "Run",
+    "CMake Application.q1_sum_natural.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/acer/Documents/GitHub/Summer_Assignment_25120cn027",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.q10_prime_range.c">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.q23_count_set_bits.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="BeforeTestRunTask" enabled="true" />
@@ -218,7 +298,92 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q13_fibonacci_series" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q13_fibonacci_series" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q13_fibonacci_series">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q14_nth_fibonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q14_nth_fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q14_nth_fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q15_check_armstrong" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q15_check_armstrong" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q15_check_armstrong">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q16_armstrong_range" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q16_armstrong_range" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q16_armstrong_range">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q17_check_perfect" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q17_check_perfect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q17_check_perfect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q18_check_strong" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q18_check_strong" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q18_check_strong">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q19_print_factors" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q19_print_factors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q19_print_factors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q1_sum_natural" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q1_sum_natural" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q1_sum_natural">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q20_largest_prime_factor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q20_largest_prime_factor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q20_largest_prime_factor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q21_decimal_to_binary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q21_decimal_to_binary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q21_decimal_to_binary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q22_binary_to_decimal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q22_binary_to_decimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q22_binary_to_decimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q23_count_set_bits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q23_count_set_bits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q23_count_set_bits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q24_power_without_pow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q24_power_without_pow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q24_power_without_pow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q25_recursive_factorial" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q25_recursive_factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q25_recursive_factorial">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q26_recursive_fibonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q26_recursive_fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q26_recursive_fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q27_recursive_sum_digits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q27_recursive_sum_digits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q27_recursive_sum_digits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q28_recursive_reverse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q28_recursive_reverse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q28_recursive_reverse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q29_half_pyramid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q29_half_pyramid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q29_half_pyramid">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -228,7 +393,62 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q30_number_triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q30_number_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q30_number_triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q31_character_triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q31_character_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q31_character_triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q32_repeated_number_pattern" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q32_repeated_number_pattern" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q32_repeated_number_pattern">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q33_reverse_star" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q33_reverse_star" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q33_reverse_star">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q34_reverse_number_triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q34_reverse_number_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q34_reverse_number_triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q35_repeated_char_pattern" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q35_repeated_char_pattern" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q35_repeated_char_pattern">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q36_hollow_square" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q36_hollow_square" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q36_hollow_square">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q37_star_pyramid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q37_star_pyramid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q37_star_pyramid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q38_reverse_pyramid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q38_reverse_pyramid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q38_reverse_pyramid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q39_number_pyramid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q39_number_pyramid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q39_number_pyramid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q3_factorial" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q3_factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q3_factorial">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q40_character_pyramid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q40_character_pyramid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q40_character_pyramid">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -263,48 +483,76 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q10_prime_range.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q10_prime_range.c" CONFIG_NAME="q10_prime_range.c">
-      <option name="sourceFile" value="DAY_03\q10_prime_range.c" />
+    <configuration name="q19_print_factors.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q19_print_factors.c" CONFIG_NAME="q19_print_factors.c">
+      <option name="sourceFile" value="DAY_05\q19_print_factors.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q6_reverse_number.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q6_reverse_number.c" CONFIG_NAME="q6_reverse_number.c">
-      <option name="sourceFile" value="DAY_02\q6_reverse_number.c" />
+    <configuration name="q20_largest_prime_factor.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q20_largest_prime_factor.c" CONFIG_NAME="q20_largest_prime_factor.c">
+      <option name="sourceFile" value="DAY_05\q20_largest_prime_factor.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q7_product_of_digits.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q7_product_of_digits.c" CONFIG_NAME="q7_product_of_digits.c">
-      <option name="sourceFile" value="DAY_02\q7_product_of_digits.c" />
+    <configuration name="q21_decimal_to_binary.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q21_decimal_to_binary.c" CONFIG_NAME="q21_decimal_to_binary.c">
+      <option name="sourceFile" value="DAY_06\q21_decimal_to_binary.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q8_palindrome_number.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q8_palindrome_number.c" CONFIG_NAME="q8_palindrome_number.c">
-      <option name="sourceFile" value="DAY_02\q8_palindrome_number.c" />
+    <configuration name="q22_binary_to_decimal.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q22_binary_to_decimal.c" CONFIG_NAME="q22_binary_to_decimal.c">
+      <option name="sourceFile" value="DAY_06\q22_binary_to_decimal.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q9_check_prime.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q9_check_prime.c" CONFIG_NAME="q9_check_prime.c">
-      <option name="sourceFile" value="DAY_03\q9_check_prime.c" />
+    <configuration name="q23_count_set_bits.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q23_count_set_bits.c" CONFIG_NAME="q23_count_set_bits.c">
+      <option name="sourceFile" value="DAY_06\q23_count_set_bits.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.q10_prime_range.c" />
-      <item itemvalue="C/C++ File.q9_check_prime.c" />
-      <item itemvalue="C/C++ File.q6_reverse_number.c" />
-      <item itemvalue="C/C++ File.q7_product_of_digits.c" />
-      <item itemvalue="C/C++ File.q8_palindrome_number.c" />
+      <item itemvalue="C/C++ File.q19_print_factors.c" />
+      <item itemvalue="C/C++ File.q20_largest_prime_factor.c" />
+      <item itemvalue="C/C++ File.q21_decimal_to_binary.c" />
+      <item itemvalue="C/C++ File.q22_binary_to_decimal.c" />
+      <item itemvalue="C/C++ File.q23_count_set_bits.c" />
       <item itemvalue="CMake Application.q10_prime_range" />
       <item itemvalue="CMake Application.q11_find_gcd" />
       <item itemvalue="CMake Application.q12_find_lcm" />
+      <item itemvalue="CMake Application.q13_fibonacci_series" />
+      <item itemvalue="CMake Application.q14_nth_fibonacci" />
+      <item itemvalue="CMake Application.q15_check_armstrong" />
+      <item itemvalue="CMake Application.q16_armstrong_range" />
+      <item itemvalue="CMake Application.q17_check_perfect" />
+      <item itemvalue="CMake Application.q18_check_strong" />
+      <item itemvalue="CMake Application.q19_print_factors" />
       <item itemvalue="CMake Application.q1_sum_natural" />
+      <item itemvalue="CMake Application.q20_largest_prime_factor" />
+      <item itemvalue="CMake Application.q21_decimal_to_binary" />
+      <item itemvalue="CMake Application.q22_binary_to_decimal" />
+      <item itemvalue="CMake Application.q23_count_set_bits" />
+      <item itemvalue="CMake Application.q24_power_without_pow" />
+      <item itemvalue="CMake Application.q25_recursive_factorial" />
+      <item itemvalue="CMake Application.q26_recursive_fibonacci" />
+      <item itemvalue="CMake Application.q27_recursive_sum_digits" />
+      <item itemvalue="CMake Application.q28_recursive_reverse" />
+      <item itemvalue="CMake Application.q29_half_pyramid" />
       <item itemvalue="CMake Application.q2_multiplication_table" />
+      <item itemvalue="CMake Application.q30_number_triangle" />
+      <item itemvalue="CMake Application.q31_character_triangle" />
+      <item itemvalue="CMake Application.q32_repeated_number_pattern" />
+      <item itemvalue="CMake Application.q33_reverse_star" />
+      <item itemvalue="CMake Application.q34_reverse_number_triangle" />
+      <item itemvalue="CMake Application.q35_repeated_char_pattern" />
+      <item itemvalue="CMake Application.q36_hollow_square" />
+      <item itemvalue="CMake Application.q37_star_pyramid" />
+      <item itemvalue="CMake Application.q38_reverse_pyramid" />
+      <item itemvalue="CMake Application.q39_number_pyramid" />
       <item itemvalue="CMake Application.q3_factorial" />
+      <item itemvalue="CMake Application.q40_character_pyramid" />
       <item itemvalue="CMake Application.q4_count_digits" />
       <item itemvalue="CMake Application.q5_sum_of_digits" />
       <item itemvalue="CMake Application.q6_reverse_number" />
@@ -314,11 +562,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.q10_prime_range.c" />
-        <item itemvalue="C/C++ File.q9_check_prime.c" />
-        <item itemvalue="C/C++ File.q8_palindrome_number.c" />
-        <item itemvalue="C/C++ File.q7_product_of_digits.c" />
-        <item itemvalue="C/C++ File.q6_reverse_number.c" />
+        <item itemvalue="C/C++ File.q23_count_set_bits.c" />
+        <item itemvalue="C/C++ File.q22_binary_to_decimal.c" />
+        <item itemvalue="C/C++ File.q21_decimal_to_binary.c" />
+        <item itemvalue="C/C++ File.q20_largest_prime_factor.c" />
+        <item itemvalue="C/C++ File.q19_print_factors.c" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +584,8 @@
       <workItem from="1780740779147" duration="209000" />
       <workItem from="1780741002472" duration="1887000" />
       <workItem from="1780760827899" duration="3706000" />
-      <workItem from="1780765469314" duration="388000" />
+      <workItem from="1780765469314" duration="435000" />
+      <workItem from="1780797472275" duration="23921000" />
     </task>
     <servers />
   </component>
@@ -353,9 +602,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/DAY_01/q1_sum_natural.c</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/DAY_03/q9_check_prime.c</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
