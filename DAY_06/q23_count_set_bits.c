@@ -1,22 +1,20 @@
 #include <stdio.h>
 
-int countSetBitsOptimized(int n) {
-    int count = 0;
+int main() {
+
+    int n,count = 0,temp=0;
+    scanf("%d", &n);
+    temp = n;
+
 
     while (n > 0) {
-        // Erase the rightmost set bit
         n = n & (n - 1);
 
-        // Since we successfully erased a '1', we count it
+
         count++;
     }
 
-    return count;
-}
 
-int main() {
-    int number;
-    scanf("%d", &number);
-    printf("Set bits in %d: %d\n", number, countSetBitsOptimized(number));
+    printf("Set bits in %d: %d\n", temp, count);
     return 0;
 }
