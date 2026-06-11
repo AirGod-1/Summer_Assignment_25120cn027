@@ -69,20 +69,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_06/q23_count_set_bits.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_06/q23_count_set_bits.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_06/q24_power_without_pow.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_06/q24_power_without_pow.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_07/q25_recursive_factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/q25_recursive_factorial.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_07/q26_recursive_fibonacci.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/q26_recursive_fibonacci.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_07/q27_recursive_sum_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/q27_recursive_sum_digits.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_07/q28_recursive_reverse.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_07/q28_recursive_reverse.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_08/q29_half_pyramid.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_08/q29_half_pyramid.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_08/q30_number_triangle.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_08/q30_number_triangle.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_08/q31_character_triangle.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_08/q31_character_triangle.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_08/q32_repeated_number_pattern.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_08/q32_repeated_number_pattern.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_09/q33_reverse_star.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_09/q33_reverse_star.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_09/q34_reverse_number_triangle.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_09/q34_reverse_number_triangle.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_09/q35_repeated_char_pattern.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_09/q35_repeated_char_pattern.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_09/q36_hollow_square.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_09/q36_hollow_square.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_10/q37_star_pyramid.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_10/q37_star_pyramid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_10/q38_reverse_pyramid.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_10/q38_reverse_pyramid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_10/q39_number_pyramid.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_10/q39_number_pyramid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_10/q40_character_pyramid.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_10/q40_character_pyramid.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +83,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="78" />
+    <option name="cachedIndexableFilesCount" value="91" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -109,60 +99,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000000018" />
-      <entry key="S5" value="1.000001248568825" />
-      <entry key="S10" value="1.001175361647456" />
-      <entry key="S30" value="1.187529004316453" />
-      <entry key="S60" value="2.007845448961881" />
-      <entry key="M2" value="3.9423080085893614" />
-      <entry key="M5" value="7.4544493448651625" />
-      <entry key="M10" value="11.849681007631801" />
-      <entry key="M15" value="16.689976620512155" />
-      <entry key="M30" value="28.67165101396947" />
-      <entry key="H1" value="43.885249934784945" />
-      <entry key="H2" value="63.52910249681089" />
-      <entry key="H4" value="101.48976367446215" />
-      <entry key="D1" value="449.87048328194606" />
-      <entry key="W1" value="686.2080518436013" />
+      <entry key="MS500" value="1.0000000006468996" />
+      <entry key="S2" value="1.0056339668362513" />
+      <entry key="S5" value="1.1796325275167803" />
+      <entry key="S10" value="1.6685563271808077" />
+      <entry key="S30" value="3.190679149596092" />
+      <entry key="S60" value="5.2118675721612835" />
+      <entry key="M2" value="8.167268312265138" />
+      <entry key="M5" value="11.907009868142866" />
+      <entry key="M10" value="14.867293455661779" />
+      <entry key="M15" value="18.030372976053652" />
+      <entry key="M30" value="28.78177867062557" />
+      <entry key="H1" value="46.44088544207506" />
+      <entry key="H2" value="69.97710090596897" />
+      <entry key="H4" value="110.37373980524019" />
+      <entry key="D1" value="461.5723717791254" />
+      <entry key="W1" value="704.3920015273213" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="4.358834200145517E-151" />
-      <entry key="S10" value="6.602146772183662E-76" />
-      <entry key="S30" value="8.707531581784662E-26" />
-      <entry key="S60" value="2.950852687238839E-13" />
-      <entry key="M2" value="5.432175151114729E-7" />
-      <entry key="M5" value="0.003118815146587956" />
-      <entry key="M10" value="0.055889467245123205" />
-      <entry key="M15" value="0.1476781490284079" />
-      <entry key="M30" value="0.4451928876928893" />
-      <entry key="H1" value="1.0786532788362626" />
-      <entry key="H2" value="2.245378077450618" />
-      <entry key="H4" value="4.342300083846743" />
-      <entry key="D1" value="17.799657549368334" />
-      <entry key="W1" value="26.159688379769182" />
+      <entry key="S5" value="2.336290093358133E-289" />
+      <entry key="S10" value="4.833518483835695E-145" />
+      <entry key="S30" value="7.847918083589854E-49" />
+      <entry key="S60" value="8.85884760202469E-25" />
+      <entry key="M2" value="9.412145133828244E-13" />
+      <entry key="M5" value="1.546947500209809E-5" />
+      <entry key="M10" value="0.003936161779242905" />
+      <entry key="M15" value="0.0251851700242339" />
+      <entry key="M30" value="0.18384953717320388" />
+      <entry key="H1" value="0.6931688368017221" />
+      <entry key="H2" value="1.7999815724572386" />
+      <entry key="H4" value="3.8878466221560877" />
+      <entry key="D1" value="17.47470536520223" />
+      <entry key="W1" value="26.090923662995827" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.003644660123190655" />
-      <entry key="MS500" value="0.3253354638604834" />
-      <entry key="S2" value="0.755236292781414" />
-      <entry key="S5" value="0.8937862364514272" />
-      <entry key="S10" value="0.9464902420687655" />
-      <entry key="S30" value="1.1631075706398952" />
-      <entry key="S60" value="1.981198037613462" />
-      <entry key="M2" value="3.9120744899569986" />
-      <entry key="M5" value="7.433550273713046" />
-      <entry key="M10" value="11.885555085034625" />
-      <entry key="M15" value="16.818008676040247" />
-      <entry key="M30" value="29.09910441450362" />
-      <entry key="H1" value="44.95036951004298" />
-      <entry key="H2" value="65.76486532452864" />
-      <entry key="H4" value="105.82422100036176" />
-      <entry key="D1" value="467.66387944231315" />
-      <entry key="W1" value="712.3663673454747" />
+      <entry key="MS100" value="8.15515546316767E-4" />
+      <entry key="MS500" value="0.2411495463945866" />
+      <entry key="S2" value="0.705197607388009" />
+      <entry key="S5" value="1.0256538377500093" />
+      <entry key="S10" value="1.5302656611723957" />
+      <entry key="S30" value="3.0418368028489318" />
+      <entry key="S60" value="5.079824165948538" />
+      <entry key="M2" value="8.064799747285573" />
+      <entry key="M5" value="11.84769433827858" />
+      <entry key="M10" value="14.834312579944587" />
+      <entry key="M15" value="18.026213358601836" />
+      <entry key="M30" value="28.94342475698733" />
+      <entry key="H1" value="47.117201241732644" />
+      <entry key="H2" value="71.76506997172505" />
+      <entry key="H4" value="114.25234818069076" />
+      <entry key="D1" value="479.0405510835849" />
+      <entry key="W1" value="730.4815015363091" />
     </decayedShown>
   </component>
   <component name="ProjectApplicationVersion">
@@ -183,75 +173,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.q10_prime_range.c.executor": "Run",
-    "C/C++ File.q11_find_gcd.c.executor": "Run",
-    "C/C++ File.q12_find_lcm.c.executor": "Run",
-    "C/C++ File.q13_fibonacci_series.c.executor": "Run",
-    "C/C++ File.q14_nth_fibonacci.c.executor": "Run",
-    "C/C++ File.q15_check_armstrong.c.executor": "Run",
-    "C/C++ File.q16_armstrong_range.c.executor": "Run",
-    "C/C++ File.q17_check_perfect.c.executor": "Run",
-    "C/C++ File.q18_check_strong.c.executor": "Run",
-    "C/C++ File.q19_print_factors.c.executor": "Run",
-    "C/C++ File.q1_sum_natural.c.executor": "Run",
-    "C/C++ File.q20_largest_prime_factor.c.executor": "Run",
-    "C/C++ File.q21_decimal_to_binary.c.executor": "Run",
-    "C/C++ File.q22_binary_to_decimal.c.executor": "Run",
-    "C/C++ File.q23_count_set_bits.c.executor": "Run",
-    "C/C++ File.q24_power_without_pow.c.executor": "Run",
-    "C/C++ File.q25_recursive_factorial.c.executor": "Run",
-    "C/C++ File.q26_recursive_fibonacci.c.executor": "Run",
-    "C/C++ File.q27_recursive_sum_digits.c.executor": "Run",
-    "C/C++ File.q28_recursive_reverse.c.executor": "Run",
-    "C/C++ File.q29_half_pyramid.c.executor": "Run",
-    "C/C++ File.q2_multiplication_table.c.executor": "Run",
-    "C/C++ File.q30_number_triangle.c.executor": "Run",
-    "C/C++ File.q31_character_triangle.c.executor": "Run",
-    "C/C++ File.q32_repeated_number_pattern.c.executor": "Run",
-    "C/C++ File.q33_reverse_star.c.executor": "Run",
-    "C/C++ File.q34_reverse_number_triangle.c.executor": "Run",
-    "C/C++ File.q35_repeated_char_pattern.c.executor": "Run",
-    "C/C++ File.q36_hollow_square.c.executor": "Run",
-    "C/C++ File.q3_factorial.c.executor": "Run",
-    "C/C++ File.q4_count_digits.c.executor": "Run",
-    "C/C++ File.q5_sum_of_digits.c.executor": "Run",
-    "C/C++ File.q6_reverse_number.c.executor": "Run",
-    "C/C++ File.q7_product_of_digits.c.executor": "Run",
-    "C/C++ File.q8_palindrome_number.c.executor": "Run",
-    "C/C++ File.q9_check_prime.c.executor": "Run",
-    "CMake Application.q1_sum_natural.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/acer/Documents/GitHub/Summer_Assignment_25120cn027",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.first.attach.projects": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.q10_prime_range.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q11_find_gcd.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q12_find_lcm.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q13_fibonacci_series.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q14_nth_fibonacci.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q15_check_armstrong.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q16_armstrong_range.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q17_check_perfect.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q18_check_strong.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q19_print_factors.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q1_sum_natural.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q20_largest_prime_factor.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q21_decimal_to_binary.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q22_binary_to_decimal.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q23_count_set_bits.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q24_power_without_pow.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q25_recursive_factorial.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q26_recursive_fibonacci.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q27_recursive_sum_digits.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q28_recursive_reverse.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q29_half_pyramid.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q2_multiplication_table.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q30_number_triangle.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q31_character_triangle.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q32_repeated_number_pattern.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q33_reverse_star.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q34_reverse_number_triangle.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q35_repeated_char_pattern.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q36_hollow_square.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q37_star_pyramid.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q38_reverse_pyramid.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q39_number_pyramid.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q3_factorial.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q40_character_pyramid.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q4_count_digits.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q5_sum_of_digits.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q6_reverse_number.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q7_product_of_digits.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q8_palindrome_number.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.q9_check_prime.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.q1_sum_natural.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/Documents/GitHub/Summer_Assignment_25120cn027&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="C/C++ File.q36_hollow_square.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="C/C++ File.q40_character_pyramid.c">
     <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="BeforeTestRunTask" enabled="true" />
@@ -472,41 +461,41 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q32_repeated_number_pattern.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q32_repeated_number_pattern.c" CONFIG_NAME="q32_repeated_number_pattern.c">
-      <option name="sourceFile" value="DAY_08\q32_repeated_number_pattern.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q33_reverse_star.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q33_reverse_star.c" CONFIG_NAME="q33_reverse_star.c">
-      <option name="sourceFile" value="DAY_09\q33_reverse_star.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q34_reverse_number_triangle.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q34_reverse_number_triangle.c" CONFIG_NAME="q34_reverse_number_triangle.c">
-      <option name="sourceFile" value="DAY_09\q34_reverse_number_triangle.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q35_repeated_char_pattern.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q35_repeated_char_pattern.c" CONFIG_NAME="q35_repeated_char_pattern.c">
-      <option name="sourceFile" value="DAY_09\q35_repeated_char_pattern.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="q36_hollow_square.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q36_hollow_square.c" CONFIG_NAME="q36_hollow_square.c">
       <option name="sourceFile" value="DAY_09\q36_hollow_square.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q37_star_pyramid.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q37_star_pyramid.c" CONFIG_NAME="q37_star_pyramid.c">
+      <option name="sourceFile" value="DAY_10\q37_star_pyramid.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q38_reverse_pyramid.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q38_reverse_pyramid.c" CONFIG_NAME="q38_reverse_pyramid.c">
+      <option name="sourceFile" value="DAY_10\q38_reverse_pyramid.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q39_number_pyramid.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q39_number_pyramid.c" CONFIG_NAME="q39_number_pyramid.c">
+      <option name="sourceFile" value="DAY_10\q39_number_pyramid.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q40_character_pyramid.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment" TARGET_NAME="q40_character_pyramid.c" CONFIG_NAME="q40_character_pyramid.c">
+      <option name="sourceFile" value="DAY_10\q40_character_pyramid.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="C/C++ File.q32_repeated_number_pattern.c" />
-      <item itemvalue="C/C++ File.q33_reverse_star.c" />
-      <item itemvalue="C/C++ File.q34_reverse_number_triangle.c" />
-      <item itemvalue="C/C++ File.q35_repeated_char_pattern.c" />
+      <item itemvalue="C/C++ File.q37_star_pyramid.c" />
+      <item itemvalue="C/C++ File.q38_reverse_pyramid.c" />
+      <item itemvalue="C/C++ File.q39_number_pyramid.c" />
+      <item itemvalue="C/C++ File.q40_character_pyramid.c" />
       <item itemvalue="C/C++ File.q36_hollow_square.c" />
       <item itemvalue="CMake Application.q10_prime_range" />
       <item itemvalue="CMake Application.q11_find_gcd" />
@@ -551,11 +540,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.q40_character_pyramid.c" />
+        <item itemvalue="C/C++ File.q39_number_pyramid.c" />
+        <item itemvalue="C/C++ File.q38_reverse_pyramid.c" />
+        <item itemvalue="C/C++ File.q37_star_pyramid.c" />
         <item itemvalue="C/C++ File.q36_hollow_square.c" />
-        <item itemvalue="C/C++ File.q35_repeated_char_pattern.c" />
-        <item itemvalue="C/C++ File.q34_reverse_number_triangle.c" />
-        <item itemvalue="C/C++ File.q33_reverse_star.c" />
-        <item itemvalue="C/C++ File.q32_repeated_number_pattern.c" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +565,11 @@
       <workItem from="1780765469314" duration="435000" />
       <workItem from="1780797472275" duration="24557000" />
       <workItem from="1780903927542" duration="17821000" />
-      <workItem from="1780992602087" duration="2456000" />
+      <workItem from="1780992602087" duration="3434000" />
+      <workItem from="1781077641845" duration="7000" />
+      <workItem from="1781165875564" duration="596000" />
+      <workItem from="1781179885488" duration="3865000" />
+      <workItem from="1781195077724" duration="8000" />
     </task>
     <servers />
   </component>
