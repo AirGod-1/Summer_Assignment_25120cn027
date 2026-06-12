@@ -48,5 +48,25 @@ foreach(SOURCE ${SOURCES})
             DAY_10/q37_star_pyramid.c
             DAY_10/q38_reverse_pyramid.c
             DAY_10/q39_number_pyramid.c
-            DAY_10/q40_character_pyramid.c)
+            DAY_10/q40_character_pyramid.c
+            DAY_11/q41_function_sum.c
+            DAY_11/q42_function_maximum.c
+            DAY_11/q43_function_prime.c
+            DAY_11/q44_function_factorial.c
+            DAY_12/q45_function_palindrome.c
+            DAY_12/q46_function_armstrong.c
+            DAY_12/q47_function_fibonacci.c
+            DAY_12/q48_function_perfect.c
+            DAY_13/q49_input_display_array.c
+            DAY_13/q50_sum_average_array.c
+            DAY_13/q51_largest_smallest_element.c
+            DAY_13/q52_count_even_odd.c
+            DAY_14/q53_linear_search.c
+            DAY_14/q54_frequency_element.c
+            DAY_14/q55_second_largest.c
+            DAY_14/q56_find_duplicates.c
+            DAY_15/q57_reverse_array.c
+            DAY_15/q58_rotate_left.c
+            DAY_15/q59_rotate_right.c
+            DAY_15/q60_move_zeroes_end.c)
 endforeach()
