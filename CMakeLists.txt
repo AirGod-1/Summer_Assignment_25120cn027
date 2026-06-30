@@ -120,5 +120,13 @@ foreach(SOURCE ${SOURCES})
             DAY_28/q109_library_management.c
             DAY_28/q110_bank_account_sys.c
             DAY_28/q111_ticket_booking_sys.c
-            DAY_28/q112_contact_management.c)
+            DAY_28/q112_contact_management.c
+            DAY_29/q113_menu_calculator.c
+            DAY_29/q114_menu_array_ops.c
+            DAY_29/q115_menu_string_ops.c
+            DAY_29/q116_inventory_management.c
+            DAY_30/q117_student_arrays_strings.c
+            DAY_30/q118_mini_library_sys.c
+            DAY_30/q119_mini_employee_sys.c
+            DAY_30/q120_complete_mini_project.c)
 endforeach()

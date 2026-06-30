@@ -20,6 +20,7 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="Summer_Assignment_25120cn027" targetName="q70_selection_sort" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q117_student_arrays_strings" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q104_quiz_application" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q15_check_armstrong" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q35_repeated_char_pattern" />
@@ -27,6 +28,7 @@
       <config projectName="Summer_Assignment_25120cn027" targetName="q92_max_occurring_char" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q25_recursive_factorial" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q91_check_anagram" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q119_mini_employee_sys" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q38_reverse_pyramid" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q66_union_arrays" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q84_lower_to_upper" />
@@ -39,6 +41,7 @@
       <config projectName="Summer_Assignment_25120cn027" targetName="q53_linear_search" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q109_library_management" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q102_voting_eligibility" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q113_menu_calculator" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q42_function_maximum" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q54_frequency_element" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q7_product_of_digits" />
@@ -47,6 +50,7 @@
       <config projectName="Summer_Assignment_25120cn027" targetName="q21_decimal_to_binary" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q60_move_zeroes_end" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q51_largest_smallest_element" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q118_mini_library_sys" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q105_student_record_sys" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q81_string_length" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q39_number_pyramid" />
@@ -117,14 +121,18 @@
       <config projectName="Summer_Assignment_25120cn027" targetName="q37_star_pyramid" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q63_pair_given_sum" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q55_second_largest" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q120_complete_mini_project" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q18_check_strong" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q36_hollow_square" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q3_factorial" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q20_largest_prime_factor" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q116_inventory_management" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q115_menu_string_ops" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q5_sum_of_digits" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q1_sum_natural" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q96_remove_duplicate_chars" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q24_power_without_pow" />
+      <config projectName="Summer_Assignment_25120cn027" targetName="q114_menu_array_ops" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q74_subtract_matrices" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q13_fibonacci_series" />
       <config projectName="Summer_Assignment_25120cn027" targetName="q31_character_triangle" />
@@ -139,7 +147,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="" />
+    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DAY_29/q113_menu_calculator.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_29/q114_menu_array_ops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_29/q115_menu_string_ops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_29/q116_inventory_management.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_30/q117_student_arrays_strings.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_30/q118_mini_library_sys.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_30/q119_mini_employee_sys.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_30/q120_complete_mini_project.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +168,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="117" />
+    <option name="cachedIndexableFilesCount" value="169" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -333,6 +352,11 @@
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q100_sort_words_length" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q100_sort_words_length" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q100_sort_words_length">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -403,7 +427,47 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q113_menu_calculator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q113_menu_calculator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q113_menu_calculator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q114_menu_array_ops" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q114_menu_array_ops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q114_menu_array_ops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q115_menu_string_ops" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q115_menu_string_ops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q115_menu_string_ops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q116_inventory_management" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q116_inventory_management" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q116_inventory_management">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q117_student_arrays_strings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q117_student_arrays_strings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q117_student_arrays_strings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q118_mini_library_sys" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q118_mini_library_sys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q118_mini_library_sys">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q119_mini_employee_sys" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q119_mini_employee_sys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q119_mini_employee_sys">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q11_find_gcd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q11_find_gcd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q11_find_gcd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q120_complete_mini_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Summer_Assignment_25120cn027" TARGET_NAME="q120_complete_mini_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Summer_Assignment_25120cn027" RUN_TARGET_NAME="q120_complete_mini_project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -924,6 +988,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.q45_function_palindrome.c" />
+      <item itemvalue="C/C++ File.q53_linear_search.c" />
+      <item itemvalue="C/C++ File.q54_frequency_element.c" />
+      <item itemvalue="C/C++ File.q43_function_prime.c" />
+      <item itemvalue="C/C++ File.q44_function_factorial.c" />
       <item itemvalue="CMake Application.q100_sort_words_length" />
       <item itemvalue="CMake Application.q101_number_guessing_game" />
       <item itemvalue="CMake Application.q102_voting_eligibility" />
@@ -938,7 +1007,15 @@
       <item itemvalue="CMake Application.q110_bank_account_sys" />
       <item itemvalue="CMake Application.q111_ticket_booking_sys" />
       <item itemvalue="CMake Application.q112_contact_management" />
+      <item itemvalue="CMake Application.q113_menu_calculator" />
+      <item itemvalue="CMake Application.q114_menu_array_ops" />
+      <item itemvalue="CMake Application.q115_menu_string_ops" />
+      <item itemvalue="CMake Application.q116_inventory_management" />
+      <item itemvalue="CMake Application.q117_student_arrays_strings" />
+      <item itemvalue="CMake Application.q118_mini_library_sys" />
+      <item itemvalue="CMake Application.q119_mini_employee_sys" />
       <item itemvalue="CMake Application.q11_find_gcd" />
+      <item itemvalue="CMake Application.q120_complete_mini_project" />
       <item itemvalue="CMake Application.q12_find_lcm" />
       <item itemvalue="CMake Application.q13_fibonacci_series" />
       <item itemvalue="CMake Application.q14_nth_fibonacci" />
@@ -1036,11 +1113,6 @@
       <item itemvalue="CMake Application.q98_common_characters" />
       <item itemvalue="CMake Application.q99_sort_names_alphabetically" />
       <item itemvalue="CMake Application.q9_check_prime" />
-      <item itemvalue="C/C++ File.q43_function_prime.c" />
-      <item itemvalue="C/C++ File.q44_function_factorial.c" />
-      <item itemvalue="C/C++ File.q45_function_palindrome.c" />
-      <item itemvalue="C/C++ File.q53_linear_search.c" />
-      <item itemvalue="C/C++ File.q54_frequency_element.c" />
     </list>
     <recent_temporary>
       <list>
@@ -1078,7 +1150,7 @@
       <workItem from="1781260702220" duration="2288000" />
       <workItem from="1781270594892" duration="8181000" />
       <workItem from="1782788975149" duration="8781000" />
-      <workItem from="1782834768317" duration="2000" />
+      <workItem from="1782834768317" duration="1135000" />
     </task>
     <servers />
   </component>
