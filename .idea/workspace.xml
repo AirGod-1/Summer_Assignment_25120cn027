@@ -148,16 +148,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY_29/q113_menu_calculator.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_29/q114_menu_array_ops.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_29/q115_menu_string_ops.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_29/q116_inventory_management.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_30/q117_student_arrays_strings.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_30/q118_mini_library_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_30/q119_mini_employee_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_30/q120_complete_mini_project.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_30/q120_complete_mini_project.c" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_30/q120_complete_mini_project.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1150,7 +1141,7 @@
       <workItem from="1781260702220" duration="2288000" />
       <workItem from="1781270594892" duration="8181000" />
       <workItem from="1782788975149" duration="8781000" />
-      <workItem from="1782834768317" duration="1135000" />
+      <workItem from="1782834768317" duration="1427000" />
     </task>
     <servers />
   </component>
