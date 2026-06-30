@@ -139,62 +139,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY_16/q61_missing_number.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_16/q62_max_frequency_element.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_16/q63_pair_given_sum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_16/q64_remove_duplicates.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_17/q65_merge_arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_17/q66_union_arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_17/q67_intersection_arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_17/q68_common_elements.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_18/q69_bubble_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_18/q70_selection_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_18/q71_binary_search.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_18/q72_sort_descending.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_19/q73_add_matrices.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_19/q74_subtract_matrices.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_19/q75_transpose_matrix.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_19/q76_diagonal_sum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_20/q77_multiply_matrices.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_20/q78_check_symmetric.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_20/q79_row_wise_sum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_20/q80_column_wise_sum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_21/q81_string_length.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_21/q82_reverse_string.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_21/q83_count_vowels_consonants.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_21/q84_lower_to_upper.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_22/q85_palindrome_string.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_22/q86_count_words.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_22/q87_character_frequency.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_22/q88_remove_spaces.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_23/q89_first_non_repeating.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_23/q90_first_repeating.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_23/q91_check_anagram.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_23/q92_max_occurring_char.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_24/q93_check_string_rotation.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_24/q94_compress_string.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_24/q95_longest_word.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_24/q96_remove_duplicate_chars.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_25/q100_sort_words_length.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_25/q97_merge_sorted_arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_25/q98_common_characters.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_25/q99_sort_names_alphabetically.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_26/q101_number_guessing_game.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_26/q102_voting_eligibility.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_26/q103_atm_simulation.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_26/q104_quiz_application.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_27/q105_student_record_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_27/q106_employee_management_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_27/q107_salary_management_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_27/q108_marksheet_generation.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_28/q109_library_management.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_28/q110_bank_account_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_28/q111_ticket_booking_sys.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_28/q112_contact_management.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d6bdf068-a478-4069-931d-5c0dfe549ccd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -368,11 +313,6 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.q54_frequency_element.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="BeforeTestRunTask" enabled="true" />
@@ -984,11 +924,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.q45_function_palindrome.c" />
-      <item itemvalue="C/C++ File.q53_linear_search.c" />
-      <item itemvalue="C/C++ File.q54_frequency_element.c" />
-      <item itemvalue="C/C++ File.q43_function_prime.c" />
-      <item itemvalue="C/C++ File.q44_function_factorial.c" />
       <item itemvalue="CMake Application.q100_sort_words_length" />
       <item itemvalue="CMake Application.q101_number_guessing_game" />
       <item itemvalue="CMake Application.q102_voting_eligibility" />
@@ -1101,6 +1036,11 @@
       <item itemvalue="CMake Application.q98_common_characters" />
       <item itemvalue="CMake Application.q99_sort_names_alphabetically" />
       <item itemvalue="CMake Application.q9_check_prime" />
+      <item itemvalue="C/C++ File.q43_function_prime.c" />
+      <item itemvalue="C/C++ File.q44_function_factorial.c" />
+      <item itemvalue="C/C++ File.q45_function_palindrome.c" />
+      <item itemvalue="C/C++ File.q53_linear_search.c" />
+      <item itemvalue="C/C++ File.q54_frequency_element.c" />
     </list>
     <recent_temporary>
       <list>
@@ -1138,6 +1078,7 @@
       <workItem from="1781260702220" duration="2288000" />
       <workItem from="1781270594892" duration="8181000" />
       <workItem from="1782788975149" duration="8781000" />
+      <workItem from="1782834768317" duration="2000" />
     </task>
     <servers />
   </component>
